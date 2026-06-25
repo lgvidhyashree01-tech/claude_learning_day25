@@ -1,0 +1,13 @@
+*What you learned*
+1. *Pitch → Feedback loop*: Used Claude to simulate a full Shark Tank experience - pitch input, AI judge Q&A, scorecard, valuation
+2. *Prompt as product spec*: One detailed prompt generated a complete HTML/JS app with forms, logic, scoring, and leaderboard
+3. *Investor mindset*: Saw how VCs break down startups - market, traction, moat, team, financials, and risk through AI judge questions
+4. *Data-driven evaluation*: Analyzed startup scorecard, valuation logic, and funding recommendations Claude generated
+5. *Interactive UX*: Built + tested dynamic inputs, simulation flow, and leaderboard functionality in browser
+6. *Exportable artifacts*: Generated downloadable pitch reports for real-world use beyond the simulation
+7. *Effort calibration*: Tested Claude on “Low” effort to see how fast you can prototype founder tools
+
+*Tools used*  
+*Claude.ai* - App generation + investor persona simulation  
+*HTML5 + CSS3 + Vanilla JS* - Shark Tank UI, forms, scoring logic, leaderboard  
+*Browser LocalStorage* - Saving pitches + leaderboard data   
